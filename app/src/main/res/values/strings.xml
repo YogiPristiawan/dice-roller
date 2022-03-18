@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="ini_tombol">ini tombol</string>
+    <string name="dice">dice</string>
+</resources>
